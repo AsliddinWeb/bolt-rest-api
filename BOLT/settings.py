@@ -12,7 +12,7 @@ SECRET_KEY = 'django-insecure-%vw9_w&e&+t8p!ad(7)y!^7bb@gpe#i$*pl4#6&tt$t&hcd!2-
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['stand-metro.uz', 'www.stand-metro.uz', '167.71.49.146', 'localhost']
+ALLOWED_HOSTS = ['depos.stand-metro.uz', 'www.depos.stand-metro.uz', '167.71.49.146', 'localhost']
 
 
 INSTALLED_APPS = [
